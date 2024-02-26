@@ -6,7 +6,8 @@
 - ytags: https://ytags.onrender.com/
 - Marcuth Utils: https://marcuth-utils.vercel.app/
 - DC Mapas V1: https://dcmapasold.netlify.app/
-- DC Mapas V2: https://dcmapas.vercel.app/
+- DC Mapas v2: https://dcm-website.vercel.app/
+- DC Mapas V3: https://dcmapas.vercel.app/
 - Marcuthcraft: https://marcuthcraft.netlify.app/
 - Kessfiles: https://kessfiles.vercel.app/
 - KessURL: https://kessurl.vercel.app/
@@ -17,3 +18,4 @@
 - Doom Fire Algorithm: https://1marcuth.github.io/doom-fire-algorithm/
 - DC Kesstag: https://1marcuth.github.io/dc-kesstag/
 - Marcuth Blog: https://marcuth-blog.vercel.app/
+- JS Terminal: https://js-terminal.vercel.app/

@@ -1,8 +1,8 @@
 # My Websites
 
-- ytdl.fun: https://ytdl.fun/
+- ytdl.fun: https://ytdlnext.netlify.app/
 - x2marcuth: https://x2marcuth.netlify.app/
-- kest.fun: https://kest.fun/
+- kest.fun: https://kesturl.vercel.app/
 - ytags: https://ytags.onrender.com/
 - Marcuth Utils: https://marcuth-utils.vercel.app/
 - DC Mapas V1: https://dcmapasold.netlify.app/
@@ -21,3 +21,4 @@
 - JS Terminal: https://js-terminal.vercel.app/
 - Kessmage: https://kessmage.netlify.app/
 - FFmfy: https://ffmfy.netlify.app/
+- Saque Ofertas: https://saqueofertas.vercel.app/

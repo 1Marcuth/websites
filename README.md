@@ -1,5 +1,7 @@
 # My Websites
 
+- Selic Hoje: https://selichoje.com
+- DC Trades: https://dctrades.net
 - ytdl.fun: https://ytdlnext.netlify.app/
 - x2marcuth: https://x2marcuth.netlify.app/
 - kest.fun: https://kesturl.vercel.app/
